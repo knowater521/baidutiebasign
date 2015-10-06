@@ -1,0 +1,2 @@
+# baidutiebasign
+可以在电脑上实现自动贴吧签到功能的Python脚本
